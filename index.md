@@ -4,6 +4,6 @@ title: Quadrilemma
 ---
 # Quadrilemma
 <pre>
-  Multilectic.
+  Yes, No, Unknown, Unknowable.
 </pre>
 [Page 1](./pages/page_1)
