@@ -6,4 +6,4 @@ title: Quadrilemma
 <pre>
   Yes, No, Unknown, Unknowable.
 </pre>
-[Page 1](./pages/page_1)
+[depsekc](https://quadrilemma.github.io/depsekc/)
